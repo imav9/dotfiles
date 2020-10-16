@@ -1,0 +1,5 @@
+sudo picom &
+sh ~/.config/polybar/launch.sh
+# tint2 &
+feh --bg-scale ~/Pulpit/bruh.jpg
+blurwal --backend feh -m 2
