@@ -1,2 +1,2 @@
 # dotfiles
-my trash
+My openbox config for some comfy work 
